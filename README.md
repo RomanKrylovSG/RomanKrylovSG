@@ -14,7 +14,8 @@ S U M M A R Y
 - Knowledge of the software development/testing life cycle
 - Experience in requirements analysis 
 - Experience with a bug tracking system (Jira, Aure DevOps)
-- Understanding the principles of Scrum, Agile - Knowledge of types of testing: smoke, judgment, functional/nonfunctional testing, regression, re-test, etc. 
+- Understanding the principles of Scrum, Agile
+- Knowledge of types of testing: smoke, judgment, functional/nonfunctional testing, regression, re-test, etc. 
 - Knowledge of test development methods
 - Basic knowledge of HTML/CSS, SQL
 - Experience with Postman, Swagger, Charles Proxy
