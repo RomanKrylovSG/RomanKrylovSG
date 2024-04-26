@@ -35,6 +35,7 @@ Tools:
 - Chrome DevTools
 Network:
 - Client-server architecture / HTTP
+
 Other:
 - chatGPT
 
