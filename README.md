@@ -5,9 +5,11 @@ QA Engineer
 -----------
 
 A B O U T  M E 
+
 Passionate QA Engineer with 1 year of experience (Non-Commercial). Also took a course on the Udemy platform by Artem Rusau. Sociable, capable of deep analysis, attentive to details. Ready to help provide a quality product to end users. I understand that active interaction with team members (analysts, testers, developers) and stakeholders is important and I want to be a reliable part of the team. 
 
 S U M M A R Y 
+
 - Experience in developing test documentation: test case, bug-report, checklist
 - Knowledge of the software development/testing life cycle
 - Experience in requirements analysis 
@@ -36,10 +38,11 @@ Other:
 
 L A N G U A G E S
 
-English - Upper-Intermediate 
-Russian - Native
+- English  Upper-Intermediate 
+- Russian  Native
 
 E X P E R I E N C E
+
 QA AUTOMATION ENGINEER Feb 2024 г.
 - present (remote)
 - testing requirements;
