@@ -56,6 +56,7 @@ QA AUTOMATION ENGINEER Feb 2024 г.
 
 ### Skills
 
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
@@ -63,3 +64,6 @@ QA AUTOMATION ENGINEER Feb 2024 г.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/RomanKrylovSG" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+
+[stepik-certificate-171826-196bb9a.pdf](https://github.com/RomanKrylovSG/RomanKrylovSG/files/15127859/stepik-certificate-171826-196bb9a.pdf)
