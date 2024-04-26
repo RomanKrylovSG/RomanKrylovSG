@@ -7,7 +7,7 @@ QA Engineer
 
 A B O U T  M E 
 
-Passionate QA Engineer with 1 year of experience (Non-Commercial). Also took a course on the Udemy platform by Artem Rusau. Sociable, capable of deep analysis, attentive to details. Ready to help provide a quality product to end users. I understand that active interaction with team members (analysts, testers, developers) and stakeholders is important and I want to be a reliable part of the team. 
+Passionate QA Engineer with 1 year of experience (Non-Commercial). Also took a course on the Udemy platform by Artem Rusau [stepik-certificate-171826-196bb9a.pdf](https://github.com/RomanKrylovSG/RomanKrylovSG/files/15127859/stepik-certificate-171826-196bb9a.pdf). Sociable, capable of deep analysis, attentive to details. Ready to help provide a quality product to end users. I understand that active interaction with team members (analysts, testers, developers) and stakeholders is important and I want to be a reliable part of the team. 
 
 S U M M A R Y 
 
@@ -66,4 +66,4 @@ QA AUTOMATION ENGINEER Feb 2024 г.
 <p align="left"> <a href="https://www.github.com/RomanKrylovSG" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 
-[stepik-certificate-171826-196bb9a.pdf](https://github.com/RomanKrylovSG/RomanKrylovSG/files/15127859/stepik-certificate-171826-196bb9a.pdf)
+
