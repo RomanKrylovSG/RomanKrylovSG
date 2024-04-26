@@ -41,6 +41,7 @@ L A N G U A G E S
 - English  Upper-Intermediate 
 - Russian  Native
 
+
 E X P E R I E N C E
 
 QA AUTOMATION ENGINEER Feb 2024 г.
