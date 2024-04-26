@@ -18,7 +18,7 @@ S U M M A R Y
 - Experience with Postman, Swagger, Charles Proxy
 
 S K I L L S 
-Testing:
+ Testing:
 - Functional, integration manual testing of web and mobile applications
 - Development of test cases, checklists, bug reports
 Databases (DBMS):
