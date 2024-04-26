@@ -18,7 +18,7 @@ S U M M A R Y
 - Experience with Postman, Swagger, Charles Proxy
 
 S K I L L S 
- Testing:
+
 - Functional, integration manual testing of web and mobile applications
 - Development of test cases, checklists, bug reports
 Databases (DBMS):
@@ -35,6 +35,7 @@ Other:
 - chatGPT
 
 L A N G U A G E S
+
 English - Upper-Intermediate 
 Russian - Native
 
