@@ -3,6 +3,7 @@ Hi 👋 My name is Roman Krylov
 
 QA Engineer
 -----------
+![96332afc17d56136d3f329a3fc1bdefd](https://github.com/RomanKrylovSG/RomanKrylovSG/assets/160474366/dad3d1b8-0024-4d9a-8fcd-ebc2a15956d2)
 
 A B O U T  M E 
 
