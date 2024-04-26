@@ -7,7 +7,7 @@ QA Engineer
 
 A B O U T  M E 
 
-Passionate QA Engineer with 1 year of experience (Non-Commercial). Also took a course on the Udemy platform by Artem Rusau [stepik-certificate-171826-196bb9a.pdf](https://github.com/RomanKrylovSG/RomanKrylovSG/files/15127859/stepik-certificate-171826-196bb9a.pdf). Sociable, capable of deep analysis, attentive to details. Ready to help provide a quality product to end users. I understand that active interaction with team members (analysts, testers, developers) and stakeholders is important and I want to be a reliable part of the team. 
+Passionate QA Engineer with experience (non-commercial). Also took a course on the Udemy platform by Artem Rusau [stepik-certificate-171826-196bb9a.pdf](https://github.com/RomanKrylovSG/RomanKrylovSG/files/15127859/stepik-certificate-171826-196bb9a.pdf). Sociable, capable of deep analysis, attentive to details. Ready to help provide a quality product to end users. I understand that active interaction with team members (analysts, testers, developers) and stakeholders is important and I want to be a reliable part of the team. 
 
 S U M M A R Y 
 
@@ -21,7 +21,7 @@ S U M M A R Y
 - Basic knowledge of HTML/CSS, SQL
 - Experience with Postman, Swagger, Charles Proxy
 
-S K I L L S 
+H A R D  S K I L L S 
 
 - Functional, integration manual testing of web and mobile applications
 - Development of test cases, checklists, bug reports
