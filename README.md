@@ -19,24 +19,24 @@ S U M M A R Y
 
 S K I L L S 
 Testing:
-• Functional, integration manual testing of web and mobile applications
-• Development of test cases, checklists, bug reports
+- Functional, integration manual testing of web and mobile applications
+- Development of test cases, checklists, bug reports
 Databases (DBMS):
-• SQL / MySQL / SQLite
+- SQL / MySQL / SQLite
 TMS:
-• Jira + Zephyr
+- Jira + Zephyr
 Tools:
-• Git
-• Postman
-• Chrome DevTools
+- Git
+- Postman
+- Chrome DevTools
 Network:
-• Client-server architecture / HTTP
+- Client-server architecture / HTTP
 Other:
-• chatGPT
+- chatGPT
 
 L A N G U A G E S
-English ∙ Upper-Intermediate 
-Russian ∙ Native
+English - Upper-Intermediate 
+Russian - Native
 
 E X P E R I E N C E
 QA AUTOMATION ENGINEER Feb 2024 г.
